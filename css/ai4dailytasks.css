@@ -1,5 +1,11 @@
+html {
+    scroll-padding-top: 100px;
+}
+
+
 body {
     font-family: Quicksand, sans-serif;
+    position: relative;
 }
 
 .us img {
@@ -9,4 +15,9 @@ body {
 }
 .us a {
     color:  black;
+}
+
+.section
+{
+    padding-bottom: 4em;
 }
