@@ -25,3 +25,15 @@ body {
 .contrib-list li { 
     margin-bottom: 1.5em;  
  }
+
+ .table th {
+    padding: 1em;
+}
+
+.table td {
+    padding: 1em;
+}
+
+.program-authors li{
+    font-size: small;
+}
